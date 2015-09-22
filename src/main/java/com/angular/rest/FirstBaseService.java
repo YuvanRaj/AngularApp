@@ -23,7 +23,7 @@ public class FirstBaseService {
 		while(i<10){
 			userInfoObject = new UserInformation();
 			userInfoObject.setName("Yuvaraj"+i);
-			userInfoObject.setOrigin("Salem"+i);
+			userInfoObject.setOrigin("Salemm"+i);
 			userInfoObject.setDestination("Chennai"+i);
 			userInformationList.add(userInfoObject);
 			i++;
