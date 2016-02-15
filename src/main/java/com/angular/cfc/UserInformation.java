@@ -1,5 +1,9 @@
 package com.angular.cfc;
 
+/*
+UserInformation Information is used to show user related information in UI
+*/
+
 public class UserInformation {
 private String name;
 private String origin;
